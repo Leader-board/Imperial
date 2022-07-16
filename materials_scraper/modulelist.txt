@@ -1,0 +1,107 @@
+| 1 |	40001	Introduction to Computer Systems	c1	1	1.0	85	15	3	1:20:00	2	2	229	229	27	0	3	6	02 Oct 2021	30 Sep 2022
+| 2 |	40004R	Discrete Mathematics (resit students only)	c1		1.0	 	 	3	 	 	 	1	1	None	None	None	0	02 Oct 2021	30 Sep 2022
+| 3 |	40005	Introduction to Computer Architecture	c1	2	1.0	85	15	3	1:20:00	2	2	230	230	27	0	3	8	02 Oct 2021	30 Sep 2022
+| 4 |	40006R	Reasoning about Programs (resit students only)	c1		1.0	 	 	3	 	 	 	1	1	None	None	None	0	02 Oct 2021	30 Sep 2022
+| 5 |	40007	Introduction to Databases	c1, r6	1	1.0	85	15	3	1:20:00	2	2	230	230	27	0	3	6	02 Oct 2021	30 Sep 2022
+| 6 |	40008	Graphs and Algorithms	c1, j1	2	1.0	85	15	3	1:20:00	2	2	283	283	27	0	3	5	02 Oct 2021	30 Sep 2022
+| 7 |	40009	Computing Practical 1	c1, j1	1,2,3	1.0	0	100	 	 	 	 	284	284	3	156	6	3	02 Oct 2021	30 Sep 2022
+| 8 |	40012	Logic and Reasoning	j1	1,2	1.0	85	15	3	1:20:00	2	2	56	56	27	0	0	3	02 Oct 2021	30 Sep 2022
+| 9 |	40016	Calculus	c1	1	1.0	85	15	3	1:20:00	2	2	229	229	27	0	0	13	02 Oct 2021	30 Sep 2022
+| 10 |	40017	Linear Algebra	c1	2	1.0	85	15	3	1:20:00	2	2	229	229	27	0	0	0	02 Oct 2021	30 Sep 2022
+| 11 |	40018	Discrete Mathematics, Logic & Reasoning	c1, j1	1,2	2.0	85	15	3	1:20:00	2	2	272	272	54	0	0	6	02 Oct 2021	30 Sep 2022
+| 12 |	40018A	Discrete Mathematics, Logic & Reasoning (Part 1)	c1, j1		1.0	 	 	3	1:20:00	2	2	230	230	0	0	0	0	02 Oct 2021	30 Sep 2022
+| 1 |	50001	Algorithm Design and Analysis	c2, j2, j3	1	5.0	85	15	3	1:30:00	2	2	186	181	27	0	3	5	02 Oct 2021	30 Sep 2022
+| 2 |	50002	Software Engineering Design	c2, j2	1	5.0	85	15	3	1:30:00	2	2	209	209	27	9	3	5	02 Oct 2021	30 Sep 2022
+| 3 |	50003	Models of Computation	c2, j2, j3	1	5.0	85	15	3	1:30:00	2	2	166	162	27	0	3	6	02 Oct 2021	30 Sep 2022
+| 4 |	50004	Operating Systems	c2, j2, o3	1	5.0	85	15	3	1:30:00	2	2	211	211	27	0	3	3	02 Oct 2021	30 Sep 2022
+| 5 |	50005	Networks and Communications	c2, j2	2	5.0	85	15	3	1:30:00	2	2	164	158	27	0	3	7	02 Oct 2021	30 Sep 2022
+| 6 |	50006	Compilers	c2, j2, j3, o1, o3	2	5.0	85	15	3	1:30:00	2	2	196	183	27	0	3	6	02 Oct 2021	30 Sep 2022
+| 7 |	50007.1	Laboratory 2	c2, j2	1,2	10.0	0	100	 	 	 	 	210	210	14	90	7	10	02 Oct 2021	30 Sep 2022
+| 8 |	50007.2	Introduction to Prolog	c2, j2	2	0.0	0	100	 	 	 	 	210	210	6	4	0	5	02 Oct 2021	30 Sep 2022
+| 9 |	50007.3	Advanced Laboratory 2	c2, j2	1,2	5.0	0	100	 	 	 	 	162	159	2	30	7	0	02 Oct 2021	30 Sep 2022
+| 10 |	50008	Probability and Statistics	c2, q5	2	5.0	85	15	3	1:30:00	2	2	158	158	27	0	3	6	02 Oct 2021	30 Sep 2022
+| 11 |	50009	Symbolic Reasoning	c2, j2, j3	2	5.0	85	15	3	1:30:00	2	2	91	71	27	0	3	5	02 Oct 2021	30 Sep 2022
+| 12 |	50010	2nd Year Computing Group Project	c2, j2	2,3	5.0	0	100	 	 	 	 	198	196	8	12	5	3	02 Oct 2021	30 Sep 2022
+| 13 |	50010.2	An Introduction to Law for Computer Scientists	c2, j2	3	0.0	0	100	 	 	 	 	209	209	6	0	0	0	02 Oct 2021	30 Sep 2022
+| 14 |	50011	Computational Techniques	c2	2	5.0	85	15	3	1:30:00	2	2	109	105	27	0	3	8	02 Oct 2021	30 Sep 2022
+| 1 |	60001	Advanced Computer Architecture	a5, c3, c4, i3, i4, j3, j4, o3, s5, x1, x3, x4, x5	1	5.0	80	20	1	2:00:00	3	3	121	80	28	0	3	3	02 Oct 2021	30 Sep 2022
+| 2 |	60002	Advanced Databases	a5, c3, i3, i4, j3, j4, o3, r6, s5	2	5.0	80	20	2	2:00:00	2	2	139	110	28	0	3	6	02 Oct 2021	30 Sep 2022
+| 3 |	60003	Communicating Computer Science in Schools	c3, c4, j3, j4, o3	2	5.0	0	100	 	 	 	 	30	20	0	0	0	0	02 Oct 2021	30 Sep 2022
+| 4 |	60005	Graphics	a5, c3, i3, i4, j3, j4, o1, o3, s5, v5, x1, x2, x3, x4, x5	2	5.0	80	20	2	2:00:00	2	2	160	102	28	0	3	6	02 Oct 2021	30 Sep 2022
+| 5 |	60006	Computer Vision	c3, i3, i4, j3, j4, o3, r6, v5, x1	2	5.0	80	20	2	2:00:00	4	4	265	244	28	0	4	7	02 Oct 2021	30 Sep 2022
+| 6 |	60007	The Theory and Practice of Concurrent Programming	c3, j3	1	5.0	80	20	1	2:00:00	2	2	92	83	28	0	0	0	02 Oct 2021	30 Sep 2022
+| 7 |	60008	Custom Computing	a5, c3, c4, i3, i4, j3, j4, o3, r6, s5	2	5.0	80	20	2	2:00:00	2	2	57	27	28	0	3	3	02 Oct 2021	30 Sep 2022
+| 8 |	60009	Distributed Algorithms	a5, c3, i3, i4, j3, o3, s5, x1	2	5.0	80	20	2	2:00:00	2	2	105	68	28	0	0	2	02 Oct 2021	30 Sep 2022
+| 9 |	60010	Individual Project BEng	c3, o3	1,2,3	20.0	0	100	 	 	 	 	31	31	0	10	6	0	02 Oct 2021	30 Sep 2022
+| 10 |	60012	Introduction to Machine Learning	v5	2	1.0	70	30	2	1:30:00	3	3	88	82	28	0	3	5	02 Oct 2021	30 Sep 2022
+| 11 |	60013	Logic-Based Learning	a5, c3, j3, o3, r6, s5, t5, v5	2	5.0	80	20	2	2:00:00	3	3	112	74	28	0	0	4	02 Oct 2021	30 Sep 2022
+| 12 |	60015	Network and Web Security	a5, c3, i3, i4, j3, j4, o1, o3, s5, v5, x1, x3, x4, x5, x6	2	5.0	80	20	2	2:00:00	2	2	222	144	28	0	0	6	02 Oct 2021	30 Sep 2022
+| 13 |	60016	Operations Research	c3, i3, i4, j3, j4, r6, s5, x3, x4	1	5.0	80	20	1	2:00:00	2	2	170	144	28	0	3	4	02 Oct 2021	30 Sep 2022
+| 14 |	60017	System Performance Engineering	a5, c3, i3, i4, j3, s5, x1	2	5.0	80	20	2	2:00:00	2	2	95	63	28	0	0	7	02 Oct 2021	30 Sep 2022
+| 15 |	60019	Robotics	c3, i3, i4, j3, q5, r6, s5, t5, x1, x6	2	5.0	70	30	2	1:30:00	2	2	210	176	28	0	3	10	02 Oct 2021	30 Sep 2022
+| 16 |	60020	Simulation and Modelling	c3, c4, i3, i4, j3, j4, o3, r6, s5	1	5.0	80	20	1	2:00:00	4	4	70	40	28	0	3	1	02 Oct 2021	30 Sep 2022
+| 17 |	60021	3rd Year Software Engineering Group Project	c3, j3, o3	1,2	10.0	0	100	 	 	 	 	194	194	2	0	0	1	02 Oct 2021	30 Sep 2022
+| 18 |	60023	Type Systems for Programming Languages	a5, c3, i3, i4, j3, j4, o3, s5	1	5.0	80	20	1	2:00:00	3	3	56	36	28	0	3	0	02 Oct 2021	30 Sep 2022
+| 19 |	60024	Academic Integrity in STEMM	None	1	1.0	 	 	 	2:00:00	 	 	0	0	20	0	0	0	02 Oct 2021	30 Sep 2022
+| 20 |	60025	Individual Project BEng - EIE	i3	1,2,3	1.0	0	100	 	 	 	 	2	1	0	10	6	0	02 Oct 2021	30 Sep 2022
+| 21 |	60026	Individual Project BEng - JMC	j3	1,2,3	15.0	0	100	 	 	 	 	13	13	0	10	6	0	02 Oct 2021	30 Sep 2022
+| 1 |	70001	Advanced Computer Graphics	a5, c4, i4, j4, s5, v5	2	1.0	70	30	2	1:30:00	2	2	41	18	28	0	3	3	02 Oct 2021	30 Sep 2022
+| 2 |	70004	Advanced Computer Security	a5, c4, j4, o3, s5	1	1.0	80	20	1	2:00:00	4	4	55	45	28	0	4	2	02 Oct 2021	30 Sep 2022
+| 3 |	70005	Complexity	a5, c4, i4, j4, s5	1	1.0	80	20	1	2:00:00	3	3	50	33	28	0	3	1	02 Oct 2021	30 Sep 2022
+| 4 |	70006	Computational Finance	a5, c4, i4, j4, o3, r6, s5, t5, x3, x4, x5	1	1.0	80	20	1	2:00:00	3	3	226	201	28	0	3	3	02 Oct 2021	30 Sep 2022
+| 5 |	70007	Computational Optimisation	a5, c4, i4, j4, q5, r6, s5, t5, x1	2	1.0	80	20	2	2:00:00	2	2	83	48	28	0	4	3	02 Oct 2021	30 Sep 2022
+| 6 |	70008	Concurrent Processes	a5, c4, j4, o3, r6, s5	1	1.0	80	20	1	2:00:00	3	3	54	35	28	0	0	4	02 Oct 2021	30 Sep 2022
+| 7 |	70009	Cryptography Engineering	a5, c4, i4, j4, o3, s5, v5, x1, x3, x4, x5, x6	2	1.0	80	20	2	2:00:00	3	3	145	105	28	0	0	3	02 Oct 2021	30 Sep 2022
+| 8 |	70010	Deep Learning	a5, c4, i4, j4, o3, q5, r6, s5, t5, x6	2	1.0	50	50	2	1:30:00	2	2	244	211	36	0	0	18	02 Oct 2021	30 Sep 2022
+| 9 |	70011	Individual Project MEng	c4	1,2,3	1.0	0	100	 	 	 	 	117	117	0	10	6	0	02 Oct 2021	30 Sep 2022
+| 10 |	70012	Industrial Placement - Presentation and Report	c4, j4	1	1.0	0	100	 	 	 	 	156	156	0	0	1	0	02 Oct 2021	30 Sep 2022
+| 11 |	70015	Mathematics for Machine Learning	a5, c4, i4, j4, o3, o6, q5, r6, s5, t5, x1, x6	1	1.0	70	30	1	1:30:00	3	3	267	244	28	0	4	15	02 Oct 2021	30 Sep 2022
+| 12 |	70016	Natural Language Processing	a5, c4, j4, o3, q5, r6, s5, t5, x6	2	1.0	80	20	2	2:00:00	3	3	194	178	28	0	4	10	02 Oct 2021	30 Sep 2022
+| 13 |	70017	Principles of Distributed Ledgers	a5, c4, j4, o1, o3, r6, s5, t5, x1, x3, x4, x5	2	1.0	80	20	2	2:00:00	2	2	158	128	28	0	0	3	02 Oct 2021	30 Sep 2022
+| 14 |	70018	Privacy Engineering	a5, c4, i4, j4, o3, r6, s5, x5	1	1.0	80	20	1	2:00:00	2	2	107	92	28	0	0	4	02 Oct 2021	30 Sep 2022
+| 15 |	70019	Probabilistic Inference	a5, c4, i4, j4, q5, r6, s5, t5, v5	2	1.0	80	20	2	2:00:00	3	3	110	49	28	0	4	8	02 Oct 2021	30 Sep 2022
+| 16 |	70020	Program Analysis	a5, c4, i4, j4, o3, s5	1	1.0	80	20	1	2:00:00	3	3	46	37	28	0	4	0	02 Oct 2021	30 Sep 2022
+| 17 |	70022	Scalable Systems and Data	a5, c4, j4, o3, s5	1	1.0	80	20	1	2:00:00	2	2	105	92	28	0	0	4	02 Oct 2021	30 Sep 2022
+| 18 |	70023	Scalable Software Verification	a5, c4, j4, s5	1	1.0	80	20	1	2:00:00	2	2	20	15	28	0	0	3	02 Oct 2021	30 Sep 2022
+| 19 |	70024	Software Reliability	a5, c4, i4, j4, o3, s5, x1	2	1.0	70	30	2	1:30:00	2	2	42	26	28	0	4	4	02 Oct 2021	30 Sep 2022
+| 20 |	70025	Software Engineering for Industry	a5, c4, j4, o3, s5	2	1.0	0	100	 	 	 	 	114	107	28	0	4	1	02 Oct 2021	30 Sep 2022
+| 21 |	70026	Individual Project MEng - EIE	i4	1,2,3	1.0	0	100	 	 	 	 	26	18	0	10	6	0	02 Oct 2021	30 Sep 2022
+| 22 |	70027	Individual Project MEng - JMC	j4	1,2,3	1.0	0	100	 	 	 	 	32	32	0	10	6	0	02 Oct 2021	30 Sep 2022
+| 23 |	70028	Reinforcement Learning	a5, c4, j4, o3, q5, r6, s5, t5, x1, x4, x5, x6	1	1.0	50	50	1	1:30:00	2	2	290	268	28	0	4	23	02 Oct 2021	30 Sep 2022
+| 24 |	70030	Knowledge Representation	a5, c4, j4, o3, r6, s5, t5, x6	2	1.0	80	20	2	2:00:00	4	4	56	31	28	0	4	1	02 Oct 2021	30 Sep 2022
+| 25 |	70031	Modal Logic for Strategic Reasoning in AI	a5, c4, j4, o3, s5, t5, x3, x5	2	1.0	80	20	2	2:00:00	3	3	43	14	28	0	4	1	02 Oct 2021	30 Sep 2022
+| 26 |	70032	Computer Architecture	v5	1	1.0	80	20	3	1:30:00	2	2	108	108	28	0	3	3	02 Oct 2021	30 Sep 2022
+| 27 |	70033	Operating Systems	v5	1	1.0	80	20	3	1:30:00	2	2	108	108	28	0	3	3	02 Oct 2021	30 Sep 2022
+| 28 |	70034	Independent Study Option	a5, o3, q5, r6, s5, x6	2	1.0	0	100	 	 	 	 	25	18	0	0	0	0	02 Oct 2021	30 Sep 2022
+| 29 |	70035	Introduction to C++ Programming	v5	1	1.0	0	0	 	2:00:00	3	3	108	108	16	0	1	3	02 Oct 2021	30 Sep 2022
+| 30 |	70036	Object Oriented Design & Programming	v5	1	1.0	80	20	3	1:30:00	2	2	111	111	27	0	3	6	02 Oct 2021	30 Sep 2022
+| 31 |	70037	Logic	v5	1	1.0	80	20	3	1:30:00	2	2	42	25	36	0	4	3	02 Oct 2021	30 Sep 2022
+| 32 |	70039	MAC Individual Project	a5	3	1.0	0	100	 	 	 	 	57	57	0	0	0	0	02 Oct 2021	30 Sep 2022
+| 33 |	70040	Databases	j3, v5	1	5.0	80	20	3	2:00:00	2	2	98	87	27	0	3	5	02 Oct 2021	30 Sep 2022
+| 34 |	70041	Computer Networks and Distributed Systems	j3, v5	2	5.0	80	20	3	2:00:00	2	2	77	53	28	0	3	2	02 Oct 2021	30 Sep 2022
+| 35 |	70042	MSc Computing Software Engineering Practice and Group Project	v5	2,3	1.0	0	100	 	 	 	 	108	108	12	0	2	0	02 Oct 2021	30 Sep 2022
+| 36 |	70043	Prolog	a5, r6, s5	1	1.0	80	20	2	3:15:00	3	3	21	19	28	18	1	0	02 Oct 2021	30 Sep 2022
+| 37 |	70044	MSc (Specialism) Software Engineering Group Project	s5	1,2	1.0	0	100	 	 	 	 	15	15	6	0	0	0	02 Oct 2021	30 Sep 2022
+| 38 |	70045	MSc Computing Individual Project	v5	3	1.0	0	100	 	 	 	 	115	115	0	0	0	2	02 Oct 2021	30 Sep 2022
+| 39 |	70046	MSc Computing (Specialist) Individual Project	s5	3	1.0	0	100	 	 	 	 	77	77	0	0	0	0	02 Oct 2021	30 Sep 2022
+| 40 |	70047	MSc AI Individual Project	t5	3	1.0	0	100	 	 	 	 	50	50	0	0	0	0	02 Oct 2021	30 Sep 2022
+| 41 |	70048	MSc AI Software Engineering Group Project	t5	1,2,3	1.0	0	100	 	 	 	 	50	50	12	0	0	1	02 Oct 2021	30 Sep 2022
+| 42 |	70049	Integrated Programming Laboratory	v5	1,2	1.0	80	20	2	 	 	 	109	109	10	80	7	0	02 Oct 2021	30 Sep 2022
+| 43 |	70050	Introduction to Machine Learning	a5, c3, i3, i4, j3, j4, o3, q5, r6, s5, t5, x6	1	5.0	70	30	1	1:30:00	3	3	389	371	28	0	4	15	02 Oct 2021	30 Sep 2022
+| 44 |	70051	Introduction to Symbolic Artificial Intelligence	r6, t5	1	1.0	80	20	1	2:00:00	4	4	50	50	28	0	4	2	02 Oct 2021	30 Sep 2022
+| 45 |	70052	Ethics, Privacy, AI in Society	o6, q5, r6, t5, x6	2,3	1.0	0	100	 	 	 	 	75	55	28	0	4	3	02 Oct 2021	30 Sep 2022
+| 46 |	70053	Python Programming	q5, r6, t5, x6	1,2	1.0	80	20	2	2:10:00	1	1	65	54	28	0	4	4	02 Oct 2021	30 Sep 2022
+| 47 |	70055	Software Engineering Design	v5	2	1.0	80	20	3	2:00:00	2	2	83	74	28	0	0	3	02 Oct 2021	30 Sep 2022
+| 48 |	70056	MSc Introduction to Prolog	t5, v5	2	0.5	0	0	 	 	 	 	47	0	10	0	0	3	02 Oct 2021	30 Sep 2022
+| 49 |	70057	Algorithms	v5	2	1.0	80	20	3	2:00:00	3	3	91	83	28	0	0	3	02 Oct 2021	30 Sep 2022
+| 50 |	70058	Computer Vision	a5, o3, r6, s5, t5	1	1.0	80	20	1	2:00:00	3	3	103	95	28	0	3	9	02 Oct 2021	30 Sep 2022
+| 51 |	70059	MRes Individual Research Project - AI and Machine Learning	q5	1,2,3	1.0	 	 	 	 	 	 	0	0	0	0	0	0	02 Oct 2021	30 Sep 2022
+| 52 |	70060	Simulated Research and Development Project Proposal	q5	1,2	1.0	 	 	 	 	 	 	0	0	0	0	0	0	02 Oct 2021	30 Sep 2022
+| 53 |	70061	Research Tutorials in AI and Machine Learning	q5	1,2	1.0	 	 	 	 	 	 	0	0	0	0	0	0	02 Oct 2021	30 Sep 2022
+| 54 |	70066	Decentralised Finance	a5, c4, i4, j4, o3, s5, t5, x4, x5	2	1.0	80	20	2	2:00:00	2	2	148	107	28	0	0	3	02 Oct 2021	30 Sep 2022
+| 55 |	70067	Robot Learning and Control	a5, c4, j4, o3, s5, t5	2	1.0	70	30	2	2:00:00	3	3	105	83	28	0	4	8	02 Oct 2021	30 Sep 2022
+| 56 |	70068	Scheduling and Resource Allocation	a5, c4, j4, s5	1	1.0	80	20	1	2:00:00	2	2	35	25	28	0	4	3	02 Oct 2021	30 Sep 2022
+| 57 |	70069	Symbolic Reasoning	v5	2	1.0	80	20	3	2:00:00	2	2	20	6	28	0	4	0	02 Oct 2021	30 Sep 2022
+| 58 |	70152	Research Tutorial - Artificial Intelligence and Machine Learning for Healthcare	r6, x6	1,2	1.0	 	 	 	 	 	 	0	0	0	0	0	0	02 Oct 2021	30 Sep 2022
+| 59 |	70153	Topics in Artificial Intelligence and Machine Learning	r6, x6	1,2	1.0	 	 	 	 	 	 	0	0	0	0	0	0	02 Oct 2021	30 Sep 2022
+| 60 |	70154	Research Project - Artificial Intelligence and Machine Learning	r6, x6	1,2,3	1.0	 	 	 	 	 	 	0	0	0	0	0	0	02 Oct 2021	30 Sep 2022
